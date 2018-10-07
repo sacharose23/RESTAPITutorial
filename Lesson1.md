@@ -53,13 +53,15 @@
 
 
 
-### What is Our Stack?
+### What is the Web Stack?
+
+<img src = "/Users/dataScienceDisco/Documents/Stormcloud/Tutorials/fullstack.png" width=600px>
 
 * [**Frontend**, **Backend**,](https://en.wikipedia.org/wiki/Front_and_back_ends) **Infrastructure**, & **Persistence** **Layers** (**databases**)
 
   * **Frontend**  : presentation layer (what the user interacts with)
 
-    * Tools : Bulma, SASS, VueJS, & Axios (readability, reuseability, )
+    * Tools : Bulma, SASS, VueJS, & Axios (benefits include readability, reuseability, etc.)
 
     * Raw Languages : html, css, javascript
 
@@ -80,11 +82,18 @@
 
 ------
 
-
-
-* We will be building our REST API using a Serverless Framework
-  * Components: NodeJS, AWS Lambda, API Gateway, & DynamoDB. 
-* Serverless-offline 
+> # To be continued...
+>
+> ### What are We Building?
+>
+> * We will be building our REST API using a Serverless Framework
+>   * Components: NodeJS, AWS Lambda, API Gateway, & DynamoDB. 
+> * Plugins : Serverless-offline 
+>
+> ### Our Design Model
+>
+> * Subjective - Philosophical
+> * Model-View Control 
 
 
 
