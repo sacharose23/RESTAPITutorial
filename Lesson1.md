@@ -55,7 +55,7 @@
 
 ### What is the Web Stack?
 
-<img src = "/Users/dataScienceDisco/Documents/Stormcloud/Tutorials/fullstack.png" width=600px>
+<img src = "./fullstack.png" width=600px>
 
 * [**Frontend**, **Backend**,](https://en.wikipedia.org/wiki/Front_and_back_ends) **Infrastructure**, & **Persistence** **Layers** (**databases**)
 
